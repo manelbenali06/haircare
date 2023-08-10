@@ -186,7 +186,6 @@ class Product
       
     }
     
-   
 
     /**
      * @return Collection|Ingredient[]
@@ -215,6 +214,4 @@ class Product
 
         return $this;
     }
-
-   
 }
